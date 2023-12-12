@@ -220,58 +220,58 @@ Block SMEFT
 ###################################
 Block SMEFTcpv 
     1 0.000000e+00 # cGtil 
-    2 0.000000e+00 # cWtil 
-    3 0.000000e+00 # cHGtil 
-    4 0.000000e+00 # cHWtil 
-    5 0.000000e+00 # cHBtil 
-    6 0.000000e+00 # cHWBtil 
-    7 9.999999e-01 # cuGIm 
-    8 9.999999e-01 # ctGIm 
-    9 9.999999e-01 # cuWIm 
-   10 9.999999e-01 # ctWIm 
-   11 9.999999e-01 # cuBIm 
-   12 9.999999e-01 # ctBIm 
-   13 9.999999e-01 # cdGIm 
-   14 9.999999e-01 # cbGIm 
-   15 9.999999e-01 # cdWIm 
+    2 9.999999e-01 # cWtil 
+    3 9.999999e-01 # cHGtil 
+    4 9.999999e-01 # cHWtil 
+    5 9.999999e-01 # cHBtil 
+    6 9.999999e-01 # cHWBtil 
+    7 0.000000e+00 # cuGIm 
+    8 0.000000e+00 # ctGIm 
+    9 0.000000e+00 # cuWIm 
+   10 0.000000e+00 # ctWIm 
+   11 0.000000e+00 # cuBIm 
+   12 0.000000e+00 # ctBIm 
+   13 0.000000e+00 # cdGIm 
+   14 0.000000e+00 # cbGIm 
+   15 0.000000e+00 # cdWIm 
    16 9.999999e-01 # cbWIm 
-   17 9.999999e-01 # cdBIm 
+   17 0.000000e+00 # cdBIm 
    18 9.999999e-01 # cbBIm 
-   19 9.999999e-01 # cuHIm 
-   20 9.999999e-01 # ctHIm 
-   21 9.999999e-01 # cdHIm 
-   22 9.999999e-01 # cbHIm 
-   23 9.999999e-01 # cHudIm 
-   24 9.999999e-01 # cHtbIm 
-   25 9.999999e-01 # cutbd1Im 
-   26 9.999999e-01 # cutbd8Im 
-   27 9.999999e-01 # cjQtu1Im 
-   28 9.999999e-01 # cjQtu8Im 
-   29 9.999999e-01 # cjQbd1Im 
-   30 9.999999e-01 # cjQbd8Im 
-   31 9.999999e-01 # cjujd1Im 
-   32 9.999999e-01 # cjujd8Im 
-   33 9.999999e-01 # cjujd11Im 
-   34 9.999999e-01 # cjujd81Im 
-   35 9.999999e-01 # cQtjd1Im 
-   36 9.999999e-01 # cQtjd8Im 
-   37 9.999999e-01 # cjuQb1Im 
-   38 9.999999e-01 # cjuQb8Im 
-   39 9.999999e-01 # cQujb1Im 
-   40 9.999999e-01 # cQujb8Im 
-   41 9.999999e-01 # cjtQd1Im 
-   42 9.999999e-01 # cjtQd8Im 
-   43 9.999999e-01 # cQtQb1Im 
-   44 9.999999e-01 # cQtQb8Im 
-   45 9.999999e-01 # ceHIm 
-   46 9.999999e-01 # ceWIm 
-   47 9.999999e-01 # ceBIm 
-   48 9.999999e-01 # cledjIm 
+   19 0.000000e+00 # cuHIm 
+   20 0.000000e+00 # ctHIm 
+   21 0.000000e+00 # cdHIm 
+   22 0.000000e+00 # cbHIm 
+   23 0.000000e+00 # cHudIm 
+   24 0.000000e+00 # cHtbIm 
+   25 0.000000e+00 # cutbd1Im 
+   26 0.000000e+00 # cutbd8Im 
+   27 0.000000e+00 # cjQtu1Im 
+   28 0.000000e+00 # cjQtu8Im 
+   29 0.000000e+00 # cjQbd1Im 
+   30 0.000000e+00 # cjQbd8Im 
+   31 0.000000e+00 # cjujd1Im 
+   32 0.000000e+00 # cjujd8Im 
+   33 0.000000e+00 # cjujd11Im 
+   34 0.000000e+00 # cjujd81Im 
+   35 0.000000e+00 # cQtjd1Im 
+   36 0.000000e+00 # cQtjd8Im 
+   37 0.000000e+00 # cjuQb1Im 
+   38 0.000000e+00 # cjuQb8Im 
+   39 0.000000e+00 # cQujb1Im 
+   40 0.000000e+00 # cQujb8Im 
+   41 0.000000e+00 # cjtQd1Im 
+   42 0.000000e+00 # cjtQd8Im 
+   43 0.000000e+00 # cQtQb1Im 
+   44 0.000000e+00 # cQtQb8Im 
+   45 0.000000e+00 # ceHIm 
+   46 0.000000e+00 # ceWIm 
+   47 0.000000e+00 # ceBIm 
+   48 0.000000e+00 # cledjIm 
    49 9.999999e-01 # clebQIm 
-   50 9.999999e-01 # cleju1Im 
-   51 9.999999e-01 # cleju3Im 
-   52 9.999999e-01 # cleQt1Im 
-   53 9.999999e-01 # cleQt3Im 
+   50 0.000000e+00 # cleju1Im 
+   51 0.000000e+00 # cleju3Im 
+   52 0.000000e+00 # cleQt1Im 
+   53 0.000000e+00 # cleQt3Im 
 
 ###################################
 ## INFORMATION FOR YUKAWA
